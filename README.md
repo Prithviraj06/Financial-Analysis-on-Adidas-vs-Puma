@@ -7,4 +7,4 @@ This Project was part of the course 'Financial and Managerial Accounting'. The f
 - Created a webcast based on a comparative study of two publicly listed companies Adidas Inc. and Puma Inc. and their presence in the US market.
 - Implemented Business accounting principles of Vertical and Horizontal Analysis, Key ratios, business Segmentation, drivers, risks, and market position for financial Analysis.
 
-[Presentation Link](https://www.youtube.com/watch?v=GAWOFedKKYM&ab_channel=prachisharma)
+[click here for Final Presentation](https://www.youtube.com/watch?v=GAWOFedKKYM&ab_channel=prachisharma)
